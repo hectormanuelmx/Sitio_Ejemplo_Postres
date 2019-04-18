@@ -1,0 +1,78 @@
+body{
+  font-family:Helvetica,Arial,sans-serif;
+}
+.body{
+    padding: 60px 15px;
+}
+.Baloo{
+  font-family:Baloo;
+}
+.title{
+  font-size:2.5em;
+  margin-top:0;
+}
+.main_header{
+
+  background-color:#24495E;
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius: 4px;
+}
+.nav_link{
+  color:white;
+  margin-right:-4px;
+  text-decoration: none;
+  width: 33%;
+  display:inline-block;
+
+}
+.text-center{
+  text-align:center;
+}
+.red_text{
+   color:#E74C3C;
+}
+.main-container{
+  min-height: 100vh;
+}
+.product img{
+  width:150px;
+  border-radius:40px;
+}
+product h3{
+  font-size:1.7em;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.card{
+  border-radius: 4px;
+  background-color:white;
+  box-shadow:0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.threeD{
+  text-shadow:1px 3px 0px #6b251d, 1px 13px 5px rgb(171,168,169);
+}
+.delay-1{
+  animation-delay: 0.1s;
+  position: relative;
+  z-index: 4;
+}
+.delay-2{
+  animation-delay: 0.2s;
+  position: relative;
+  z-index: 3;
+}
+.delay-3{
+  animation-delay: 0.3s;
+  position: relative;
+  z-index: 2;
+}
+.delay-4{
+  animation-delay: 0.4s;
+  position: relative;
+  z-index: 1;
+}
+.delay5{}
